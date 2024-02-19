@@ -219,6 +219,18 @@ textarea {
   transition: all 0.3s;
 }
 
+.orange-btn2 {
+  color: #fff;
+  padding: 5px 20px;
+  background-color: var(--orange-color);
+  border-radius: 3px;
+  font-size: 12px;
+  font-weight: 400;
+  text-transform: capitalize;
+  border: 1px solid transparent;
+  transition: all 0.3s;
+}
+
 .light-bg {
   background-color: #fff3ea;
 }
@@ -1344,7 +1356,7 @@ header {
 }
 
 .main-menu ul li a {
-  font-weight: 400;
+  font-weight: 600;
   position: relative;
 }
 
@@ -1386,7 +1398,7 @@ header {
 }
 
 .main-menu ul li a {
-  font-weight: 400;
+  font-weight: 600;
   position: relative;
 }
 

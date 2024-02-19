@@ -19,8 +19,7 @@
             <div class="col-12">
                     <div class="about-wrapper">
                         <div class="row align-items-center">
-                            <div
-                                class="about-image-col col-12 col-lg-6 text-center position-relative overflow-hidden pb-3 pb-sm-5">
+                            <div class="about-image-col col-12 col-lg-6 text-center position-relative overflow-hidden pb-3 pb-sm-5">
                                 <img class="img-fluid position-relative z-1" src="assets/img/mypic-web2.png"
                                     alt="Abhitechbot A Full Stack Developer" style="border-radius: 50%" />
                                 <img class="about-four-shape position-absolute rotate-360"
@@ -36,17 +35,11 @@
                                             <p>About Us</p>
                                         </div>
                                         <h2 class="black-color line-height-3 h3">
-                                            Elevate Your Online Presence with AbhiTechBot's Web Design & Development
-                                            Solutions
+                                        Elevate Your Online Presence with AbhiTechBot's Graphic, Web Design & Development Solutions
                                         </h2>
                                     </div>
                                     <p class="secondary-black line-height-7 mt-35">
-                                        AbhiTechBot is your trusted partner in Siliguri solving modern problems through
-                                        innovative web design and development solutions. Our goal is to craft cutting-edge
-                                        websites and web applications that transform your online presence. With a focus on
-                                        user experience, performance, and creativity, our design and develop solutions that
-                                        resonate with your audience. Let us help you stay ahead in the digital landscape.
-                                        Explore AbhiTechBot for top-notch web design and development services today!
+                                    AbhiTechBot is your trusted partner in Siliguri solving modern problems through innovative Graphic, web design and development solutions. Our goal is to craft cutting-edge websites and web applications that transform your online presence. With a focus on user experience, performance, and creativity, our design and develop solutions that resonate with your audience. Let us help you stay ahead in the digital landscape. Explore AbhiTechBot for top-notch graphic, web design and development services today!
                                     </p>
                                 </div>
                                 <div class="row row-mobile-margin gy-3 gy-sm-0 mt-35">

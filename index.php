@@ -25,7 +25,7 @@
                         </span>
                       </span>
                       <br />
-                      through Web Design & Development
+                      through Graphic, Web Design & Development
                     </h1>
                   </div>
                   <p class="p line-height-7 mt-35 secondary-black fw-400">
@@ -133,11 +133,11 @@
                           <p>About Us</p>
                         </div>
                         <h2 class="black-color line-height-3 h3">
-                        Elevate Your Online Presence with AbhiTechBot's Web Design & Development Solutions
+                        Elevate Your Online Presence with AbhiTechBot's Graphic, Web Design & Development Solutions
                         </h2>
                       </div>
                       <p class="secondary-black line-height-7 mt-35">
-                      AbhiTechBot is your trusted partner in Siliguri solving modern problems through innovative web design and development solutions. Our goal is to craft cutting-edge websites and web applications that transform your online presence. With a focus on user experience, performance, and creativity, our design and develop solutions that resonate with your audience. Let us help you stay ahead in the digital landscape. Explore AbhiTechBot for top-notch web design and development services today!
+                        AbhiTechBot is your trusted partner in Siliguri solving modern problems through innovative Graphic, web design and development solutions. Our goal is to craft cutting-edge websites and web applications that transform your online presence. With a focus on user experience, performance, and creativity, our design and develop solutions that resonate with your audience. Let us help you stay ahead in the digital landscape. Explore AbhiTechBot for top-notch graphic, web design and development services today!
                       </p>
                     </div>
                     <div class="row row-mobile-margin gy-3 gy-sm-0 mt-35">
@@ -201,29 +201,29 @@
                     <img
                       class="service-item-img"
                       src="assets/img/serviceNine.webp"
-                      alt="Abhitechbot - A Full Stack Developer"
+                      alt="Website Design"
                     />
                     <h3 class="h3 fw-500 service-item-heading black-color">
-                      Web Design
+                      Website Design
                     </h3>
                     <p class="p service-item-paragraph secondary-black fw-400 line-height-7">
-                      Transforming visions into captivating web experiences.
-                      Creative web designer with 2.5 years of expertise.
+                    Customized and responsive websites with excellent and engaging designs serving every purpose
                     </p>
+                    <a href="website-design" class="btn btn-sm orange-btn2 mt-3" style="color:#fff; background-color: #ff6b00">Learn More <i class="fa-solid fa-angle-right"></i></a>
                   </div>
                   <div class="service-grid-item text-start">
                     <img
                       class="service-item-img"
                       src="assets/img/serviceTen.webp"
-                      alt="Abhitechbot - A Full Stack Developer"
+                      alt="Software Development"
                     />
                     <h3 class="h3 fw-500 service-item-heading black-color">
-                      Web Development
+                    Software Development
                     </h3>
                     <p class="p service-item-paragraph secondary-black fw-400 line-height-7">
-                      Explore modern trends in Web Development. Stay updated
-                      with the latest tools, frameworks, and techniques.
+                    Enhance your web persona with highly impactful outsourcing and a business expansion
                     </p>
+                    <a href="software-design" class="btn btn-sm orange-btn2 mt-3" style="color:#fff; background-color: #ff6b00">Learn More <i class="fa-solid fa-angle-right"></i></a>
                   </div>
                   <div class="service-grid-item text-start">
                     <img
@@ -235,24 +235,67 @@
                       Mobile Development
                     </h3>
                     <p class="p service-item-paragraph secondary-black fw-400 line-height-7">
-                      Mobile Development is evolving rapidly, with new trends
-                      and tools. In the last 6 months, advancements have been
-                      remarkable.
+                    Professional and user-interactive mobile app for your business in order to keep you available on the go
                     </p>
+                    <a href="mobile-development" class="btn btn-sm orange-btn2 mt-3" style="color:#fff; background-color: #ff6b00">Learn More <i class="fa-solid fa-angle-right"></i></a>
                   </div>
                   <div class="service-grid-item text-start">
                     <img
                       class="service-item-img"
                       src="assets/img/graph.webp"
-                      alt="Abhitechbot - A Full Stack Developer"
+                      alt="Digital Marketing Service"
                     />
                     <h3 class="h3 fw-500 service-item-heading black-color">
-                      Graph Design
+                    Digital Marketing Service
                     </h3>
                     <p class="p service-item-paragraph secondary-black fw-400 line-height-7">
-                      Experienced Graph Designer with creative flair. Produced
-                      captivating visuals in the last 2 years.
+                    The most trending and accepted approach of online growth in all aspects and gain more customers
                     </p>
+                    <a href="digital-marketing" class="btn btn-sm orange-btn2 mt-3" style="color:#fff; background-color: #ff6b00">Learn More <i class="fa-solid fa-angle-right"></i></a>
+                  </div>
+                  <div class="service-grid-item text-start">
+                    <img
+                      class="service-item-img"
+                      src="assets/img/search-engine-optimisation.png"
+                      alt="Search Engine Optimization"
+                    />
+                    <h3 class="h3 fw-500 service-item-heading black-color">
+                    Search Engine Optimization
+                    </h3>
+                    <p class="p service-item-paragraph secondary-black fw-400 line-height-7">
+                    We optimize your website through proper mordern search engine requirements for best result 
+                    </p>
+                    <a href="seo" class="btn btn-sm orange-btn2 mt-3" style="color:#fff; background-color: #ff6b00">Learn More <i class="fa-solid fa-angle-right"></i></a>
+                  </div>
+
+                  <div class="service-grid-item text-start">
+                    <img
+                      class="service-item-img"
+                      src="assets/img/adss.png"
+                      alt="Google & Facebook Ad"
+                    />
+                    <h3 class="h3 fw-500 service-item-heading black-color">
+                      Google & Facebook Ad
+                    </h3>
+                    <p class="p service-item-paragraph secondary-black fw-400 line-height-7">
+                    Gain more customer and instantly stir up business with proper and planned online ad campaigns
+                    </p>
+                    <a href="google-facebook-ad" class="btn btn-sm orange-btn2 mt-3" style="color:#fff; background-color: #ff6b00">Learn More <i class="fa-solid fa-angle-right"></i></a>
+                  </div>
+
+                  <div class="service-grid-item text-start">
+                    <img
+                      class="service-item-img"
+                      src="assets/img/graphc-design.png"
+                      alt="Graphic Design Service"
+                    />
+                    <h3 class="h3 fw-500 service-item-heading black-color">
+                    Graphic Design Service
+                    </h3>
+                    <p class="p service-item-paragraph secondary-black fw-400 line-height-7">
+                    The best set of visually attractive and winning graphics with extraordinary tools and techniques
+                    </p>
+                    <a href="google-facebook-ad" class="btn btn-sm orange-btn2 mt-3" style="color:#fff; background-color: #ff6b00">Learn More <i class="fa-solid fa-angle-right"></i></a>
                   </div>
                 </div>
               </div>
@@ -271,11 +314,11 @@
                   <div class="col-12 col-xl-5 resume-four-left">
                     <div class="section-heading">
                       <div class="sub-heading d-flex align-items-center">
-                        <img src="assets/img/orangeDot.png" alt="orange-dot Abhitechbot - A Full Stack Developer" />
-                        <p>Experience</p>
+                        <img src="assets/img/orangeDot.png" alt="Amazing Results with Best Technologies" />
+                        <p>Best Technologies</p>
                       </div>
                       <h2 class="black-color line-height-3 h2">
-                        Experience
+                      Amazing Results with Best Technologies
                       </h2>
                     </div>
                     <div class="resume-four-skill-grid mt-50 row-mobile-margin">
@@ -290,9 +333,9 @@
                         <div class="resume-four-skill-title w-100 bg-white pt-10 pb-10 pl-50 pr-50">
                           <h5 class="h5 black-color fw-500 line-height-3">
                             React
-                            <span class="orange-color">
+                            <!-- <span class="orange-color">
                               <span class="counter">85</span>%
-                            </span>
+                            </span> -->
                           </h5>
                         </div>
                       </div>
@@ -307,9 +350,9 @@
                         <div class="resume-four-skill-title w-100 bg-white pt-10 pb-10 pl-50 pr-50">
                           <h5 class="h5 black-color fw-500 line-height-3">
                             PHP
-                            <span class="orange-color">
+                            <!-- <span class="orange-color">
                               <span class="counter">90</span>%
-                            </span>
+                            </span> -->
                           </h5>
                         </div>
                       </div>
@@ -325,9 +368,9 @@
                         <div class="resume-four-skill-title w-100 bg-white pt-10 pb-10 pl-50 pr-50">
                           <h5 class="h5 black-color fw-500 line-height-3">
                             JavaScript
-                            <span class="orange-color">
+                            <!-- <span class="orange-color">
                               <span class="counter">90</span>%
-                            </span>
+                            </span> -->
                           </h5>
                         </div>
                       </div>
@@ -343,9 +386,9 @@
                         <div class="resume-four-skill-title w-100 bg-white pt-10 pb-10 pl-50 pr-50">
                           <h5 class="h5 black-color fw-500 line-height-3">
                             CSS
-                            <span class="orange-color">
+                            <!-- <span class="orange-color">
                               <span class="counter">80</span>%
-                            </span>
+                            </span> -->
                           </h5>
                         </div>
                       </div>
@@ -361,9 +404,9 @@
                         <div class="resume-four-skill-title w-100 bg-white pt-10 pb-10 pl-50 pr-50">
                           <h5 class="h5 black-color fw-500 line-height-3">
                             HTML5
-                            <span class="orange-color">
+                            <!-- <span class="orange-color">
                               <span class="counter">100</span>%
-                            </span>
+                            </span> -->
                           </h5>
                         </div>
                       </div>
@@ -379,9 +422,9 @@
                         <div class="resume-four-skill-title w-100 bg-white pt-10 pb-10 pl-50 pr-50">
                           <h5 class="h5 black-color fw-500 line-height-3">
                             Figma
-                            <span class="orange-color">
+                            <!-- <span class="orange-color">
                               <span class="counter">70</span>%
-                            </span>
+                            </span> -->
                           </h5>
                         </div>
                       </div>
@@ -396,9 +439,9 @@
                         <div class="resume-four-skill-title w-100 bg-white pt-10 pb-10 pl-50 pr-50">
                           <h5 class="h5 black-color fw-500 line-height-3">
                             Adobe XD
-                            <span class="orange-color">
+                            <!-- <span class="orange-color">
                               <span class="counter">70</span>%
-                            </span>
+                            </span> -->
                           </h5>
                         </div>
                       </div>
@@ -413,9 +456,9 @@
                         <div class="resume-four-skill-title w-100 bg-white pt-10 pb-10 pl-50 pr-50">
                           <h5 class="h5 black-color fw-500 line-height-3">
                             Photoshop
-                            <span class="orange-color">
+                            <!-- <span class="orange-color">
                               <span class="counter">85</span>%
-                            </span>
+                            </span> -->
                           </h5>
                         </div>
                       </div>
@@ -430,9 +473,9 @@
                         <div class="resume-four-skill-title w-100 bg-white pt-10 pb-10 pl-50 pr-50">
                           <h5 class="h5 black-color fw-500 line-height-3">
                             Canva
-                            <span class="orange-color">
+                            <!-- <span class="orange-color">
                               <span class="counter">85</span>%
-                            </span>
+                            </span> -->
                           </h5>
                         </div>
                       </div>
@@ -447,19 +490,19 @@
                         <div class="resume-four-skill-title w-100 bg-white pt-10 pb-10 pl-50 pr-50">
                           <h5 class="h5 black-color fw-500 line-height-3">
                             MySQL
-                            <span class="orange-color">
+                            <!-- <span class="orange-color">
                               <span class="counter">90</span>%
-                            </span>
+                            </span> -->
                           </h5>
                         </div>
                       </div>
                     </div>
                   </div>
                   <div class="col-12 col-xl-7 resume-four-right">
-                    <div class="education-experience-container">
-                      <div class="nav nav-tabs d-block border-0">
-                        <ul id="myTab" class="education-experience-nav-tab">
-                          <li class="nav-item w-100">
+                    <!-- <div class="education-experience-container"> -->
+                      <!-- <div class="nav nav-tabs d-block border-0"> -->
+                        <!-- <ul id="myTab" class="education-experience-nav-tab"> -->
+                          <!-- <li class="nav-item w-100">
                             <a
                               class="resume-nav-tab-item nav-link active"
                               href="#experience"
@@ -467,7 +510,7 @@
                             >
                               Professional Experiences
                             </a>
-                          </li>
+                          </li> -->
                           <!-- {/* <li class="nav-item w-100">
                             <a
                               class="resume-nav-tab-item nav-link"
@@ -477,9 +520,9 @@
                               Education
                             </a>
                           </li> */} -->
-                        </ul>
-                      </div>
-                    </div>
+                        <!-- </ul> -->
+                      <!-- </div> -->
+                    <!-- </div> -->
                     <div class="tab-content">
                       <div
                         id="experience"
@@ -489,81 +532,117 @@
                           <div class="col-12 col-sm-2">
                             <div class="resume-tab-img-container mx-auto mx-sm-0">
                               <img
-                                src="assets/img/phpl.webp"
-                                alt="resume tab Abhitechbot - A Full Stack Developer"
+                                src="assets/img/quality.png"
+                                alt="Digital Development"
                                 height="50px"
                               />
                             </div>
                           </div>
                           <div class="col-12 col-sm-5 text-center text-sm-start">
                             <h3 class="resume-tab-title fw-600 line-height-3 black-color mb-10">
-                              Paramount Hospital PVT. LTD.
+                            Digital Development
                             </h3>
-                            <h5 class="fw-400 line-height-6 secondary-black">
+                            <!-- <h5 class="fw-400 line-height-6 secondary-black">
                               Senior Web Developer
-                            </h5>
+                            </h5> -->
                           </div>
                           <div class="col-12 col-sm-5 text-center text-sm-end mt-3 mt-sm-0">
                             <h4 class="resume-tab-time orange-color fw-600 line-height-5 mb-10">
                               <!-- 2 Years -->
                             </h4>
-                            <h5 class="fw-400 line-height-6 black-color">
+                            <!-- <h5 class="fw-400 line-height-6 black-color">
                               July 2023 - Running
-                            </h5>
+                            </h5> -->
                           </div>
                         </div>
                         <div class="resume-tab-item bg-white pt-30 pb-30 pl-30 pr-30 row align-items-center mb-30">
                           <div class="col-12 col-sm-2">
                             <div class="resume-tab-img-container mx-auto mx-sm-0">
                               <img
-                                src="assets/img/drmalay.webp"
-                                alt="resume tab Abhitechbot - A Full Stack Developer"
-                                height="20px"
+                                src="assets/img/information-architecture.png"
+                                alt="UX / UI / Architecturer"
                               />
                             </div>
                           </div>
                           <div class="col-12 col-sm-5 text-center text-sm-start">
                             <h3 class="resume-tab-title fw-600 line-height-3 black-color mb-10">
-                            Dr Malay's Hospital and Neurosciences Centre
+                            UX / UI / Architecture
                             </h3>
-                            <h5 class="fw-400 line-height-6 secondary-black">
-                              IT-Executive
-                            </h5>
-                          </div>
-                          <div class="col-12 col-sm-5 text-center text-sm-end mt-3 mt-sm-0">
-                            <h4 class="resume-tab-time orange-color fw-600 line-height-5 mb-10">
-                              1 Years
-                            </h4>
-                            <h5 class="fw-400 line-height-6 black-color">
-                              July 2022 - June 2023
-                            </h5>
                           </div>
                         </div>
                         <div class="resume-tab-item bg-white pt-30 pb-30 pl-30 pr-30 row align-items-center mb-30">
                           <div class="col-12 col-sm-2">
                             <div class="resume-tab-img-container mx-auto mx-sm-0">
                               <img
-                                src="assets/img/anandaloke.webp"
-                                alt="resume tab Abhitechbot - A Full Stack Developer"
-                                height="20px"
+                                src="assets/img/market.png"
+                                alt="Marketing Consultation"
                               />
                             </div>
                           </div>
                           <div class="col-12 col-sm-5 text-center text-sm-start">
                             <h3 class="resume-tab-title fw-600 line-height-3 black-color mb-10">
-                            Anandaloke Multispeciality Hospital
+                            Marketing Consultation
                             </h3>
-                            <h5 class="fw-400 line-height-6 secondary-black">
-                            IT-Executive
-                            </h5>
                           </div>
-                          <div class="col-12 col-sm-5 text-center text-sm-end mt-3 mt-sm-0">
-                            <h4 class="resume-tab-time orange-color fw-600 line-height-5 mb-10">
-                              1.3 Years
-                            </h4>
-                            <h5 class="fw-400 line-height-6 black-color">
-                              April 2021 - June 2022
-                            </h5>
+                        </div>
+                        <div class="resume-tab-item bg-white pt-30 pb-30 pl-30 pr-30 row align-items-center mb-30">
+                          <div class="col-12 col-sm-2">
+                            <div class="resume-tab-img-container mx-auto mx-sm-0">
+                              <img
+                                src="assets/img/quality.png"
+                                alt="Quality Assurance"
+                              />
+                            </div>
+                          </div>
+                          <div class="col-12 col-sm-5 text-center text-sm-start">
+                            <h3 class="resume-tab-title fw-600 line-height-3 black-color mb-10">
+                            Quality Assurance
+                            </h3>
+                          </div>
+                        </div>
+                        <div class="resume-tab-item bg-white pt-30 pb-30 pl-30 pr-30 row align-items-center mb-30">
+                          <div class="col-12 col-sm-2">
+                            <div class="resume-tab-img-container mx-auto mx-sm-0">
+                              <img
+                                src="assets/img/search-engine-optimisation.png"
+                                alt="Search Engine Optimization (SEO)"
+                              />
+                            </div>
+                          </div>
+                          <div class="col-12 col-sm-5 text-center text-sm-start">
+                            <h3 class="resume-tab-title fw-600 line-height-3 black-color mb-10">
+                            Search Engine Optimization (SEO)
+                            </h3>
+                          </div>
+                        </div>
+                        <div class="resume-tab-item bg-white pt-30 pb-30 pl-30 pr-30 row align-items-center mb-30">
+                          <div class="col-12 col-sm-2">
+                            <div class="resume-tab-img-container mx-auto mx-sm-0">
+                              <img
+                                src="assets/img/information-architecture.png"
+                                alt="Analytics & Data Analysis"
+                              />
+                            </div>
+                          </div>
+                          <div class="col-12 col-sm-5 text-center text-sm-start">
+                            <h3 class="resume-tab-title fw-600 line-height-3 black-color mb-10">
+                            Analytics & Data Analysis
+                            </h3>
+                          </div>
+                        </div>
+                        <div class="resume-tab-item bg-white pt-30 pb-30 pl-30 pr-30 row align-items-center mb-30">
+                          <div class="col-12 col-sm-2">
+                            <div class="resume-tab-img-container mx-auto mx-sm-0">
+                              <img
+                                src="assets/img/ads.png"
+                                alt="Social Media Advertising"
+                              />
+                            </div>
+                          </div>
+                          <div class="col-12 col-sm-5 text-center text-sm-start">
+                            <h3 class="resume-tab-title fw-600 line-height-3 black-color mb-10">
+                            Social Media Advertising
+                            </h3>
                           </div>
                         </div>
                       </div>
@@ -968,7 +1047,7 @@
                     <div class="section-heading">
                       <div class="sub-heading d-flex align-items-center">
                         <img src="assets/img/orangeDot.png" alt="Abhitechbot - A Full Stack Developer" />
-                        <p>Contact Me</p>
+                        <p>Contact Us</p>
                       </div>
                       <h2 class="black-color line-height-3 h2">
                         Need help? Get in touch now!
@@ -1053,7 +1132,7 @@
                               class="btn orange-btn btn_effect"
                             >
                               <span class="position-relative z-1">
-                                Send Me Message
+                                Send Us Message
                               </span>
                             </button>
                           </div>

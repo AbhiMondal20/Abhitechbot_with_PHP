@@ -57,30 +57,30 @@
                             </div>
                         </div>
                         <div class="col-12 col-md-6 row-mobile-margin">
-                            <form>
+                            <form method="POST" >
                                 <div class="row g-4">
                                     <div class="col-12 col-sm-6">
-                                        <input type="textAlignLast: " class="form-control home-four-contact-input"
+                                        <input type="textAlignLast: " class="form-control home-four-contact-input" name="name"
                                             placeholder="Name" required />
                                     </div>
                                     <div class="col-12 col-sm-6">
-                                        <input type="email" class="form-control home-four-contact-input"
-                                            placeholder="Email" required />
+                                        <input type="email" class="form-control home-four-contact-input" name="email" placeholder="Email" required />
                                     </div>
                                     <div class="col-12 col-sm-6">
                                         <input type="tel" class="form-control home-four-contact-input"
-                                            placeholder="Phone" required />
+                                        placeholder="Phone" name="phone" required />
                                     </div>
                                     <div class="col-12 col-sm-6">
-                                        <input type="date" class="form-control home-four-contact-input" required />
+                                        <input type="date" class="form-control home-four-contact-input"
+                                        name="date" required />
                                     </div>
                                     <div class="col-12">
-                                        <textarea class="form-control home-four-contact-input home-four-textarea"
+                                        <textarea class="form-control home-four-contact-input home-four-textarea" name="message"
                                             placeholder="Message" required></textarea>
                                     </div>
                                     <div class="col-12">
                                         <div class="col-12">
-                                            <button type="submit" class="btn orange-btn btn_effect">
+                                            <button type="submit" name="save" class="btn orange-btn btn_effect">
                                                 <span class="position-relative z-1">
                                                     Send Me Message
                                                 </span>
@@ -96,4 +96,43 @@
         </div>
     </div>
 </section>
-<?php include('footer.php'); ?>
+
+
+<?php
+
+if(isset($_POST['save'])){
+    $name = $_POST['name'];
+    $email = $_POST['email'];
+    $phone = $_POST['phone'];
+    $date = $_POST['date'];
+    $message = $_POST['message'];
+    $apiToken = '6492864058:AAFWCX6IEGZXMl1t85dkepdnUBMOv9cHiwI';
+
+    // --bot chat id
+    // $chatId = '1486093575';
+
+    // -- Group Chat Id
+    $chatId = '-4072179115';
+    $apiUrl = "https://api.telegram.org/bot$apiToken/sendMessage";
+    $data = array(
+      'chat_id' => $chatId,
+      'Name:' . $name . "\n Email: " . $email . "\n Mobile: " . $phone . "\n Date: " . $date . "\n  Message: " . $message,
+    );
+    $ch = curl_init($apiUrl);
+    curl_setopt($ch, CURLOPT_POST, 1);
+    curl_setopt($ch, CURLOPT_POSTFIELDS, $data);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    $response = curl_exec($ch);
+    if (curl_errno($ch)) {
+      echo 'cURL error: ' . curl_error($ch);
+    } else {
+      $result = json_decode($response, true);
+      if ($result['ok']) {
+        // echo 'Message sent successfully!';
+      } else {
+        // echo 'Error: ' . $result['description'];
+      }
+    }
+    curl_close($ch);
+}
+include('footer.php'); ?>
